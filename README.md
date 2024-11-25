@@ -1,7 +1,7 @@
 
 
 
-# 🎉 Electronics Deals E-commerce Website 🚀  
+# 🎉 ElectroDeals : A E-commerce platform 🚀  
 
 An e-commerce platform for managing and purchasing electronics products, built with **Spring Boot**, **Hibernate**, and **MySQL**. 🛒✨  
 
